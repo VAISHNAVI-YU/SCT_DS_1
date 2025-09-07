@@ -21,11 +21,11 @@ Microsoft Power BI (Dashboard Creation & Visualization)
 
 📂 Contents
 
-SalesData.xlsx → Raw dataset.
+Revenue salesd ata.xlsx → Raw dataset.
 
 Sales_Dashboard.pbix → Power BI project file.
 
-Dashboard_Screenshots/ → PNG/PDF exports of dashboards.
+Screenshots → PNG exports of dashboards.
 
 README.md → Documentation (this file).
 
